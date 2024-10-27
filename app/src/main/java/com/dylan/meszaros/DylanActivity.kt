@@ -1,3 +1,5 @@
+// Student Number: 301248995
+
 package com.dylan.meszaros
 
 import android.annotation.SuppressLint
@@ -80,6 +82,8 @@ import kotlinx.coroutines.launch
 var onStartup = false;
 
 class DylanActivity : ComponentActivity() {
+    // Student Number: 301248995
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         if (onStartup == false){
@@ -101,6 +105,8 @@ class DylanActivity : ComponentActivity() {
 }
 
 class MeszarosActivity : ComponentActivity() {
+    //Student Number: 301248995
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
